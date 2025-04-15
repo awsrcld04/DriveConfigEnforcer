@@ -2,7 +2,7 @@
 # DriveConfigEnforcer
 
 DESCRIPTION: 
-- Verifies the existence of a list of accounts
+- Checks the subdirectories of a drive to look for unauthorized changes
 
 > NOTES: Code in initial repo commit is from 2011. 
 
